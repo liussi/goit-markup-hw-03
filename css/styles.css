@@ -327,6 +327,7 @@ font-size: var(--font-size);
     background: #F4F4FD;
     border: 1px solid #E7E9FC;
     border-radius: 4px;
+   
 }
 .modal-btn:hover,
 .modal-btn:focus {
@@ -358,7 +359,9 @@ font-size: var(--font-size);
 }
 
 .works-content {
-  padding: 0 16px;
+    
+    padding: 32px 16px;
     background: var(--theme-white);
     border: 1px solid #E7E9FC;
+    border-top: none;
 }
