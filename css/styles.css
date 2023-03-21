@@ -386,13 +386,13 @@ font-size: var(--font-size);
 }
 .customers-item:hover,
 .customers-item:focus {
-    color: #4D5AE5;
     border-color: #404BBF;
-  
+    color: #4D5AE5;     
 }
 .customers-item:hover .customers-icon,
 .customers-item:focus .customers-icon {
     fill: currentColor;
+   
  }
 
 /* ===============FOOTER========= */
