@@ -389,7 +389,8 @@ font-size: var(--font-size);
 }
 
 .page-footer {
-    /* display: flex; */
+    /* display: flex;
+     */
     padding-top: 100px;
     padding-bottom: 118px;
    
